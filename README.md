@@ -1,1 +1,1 @@
-# Parallel-Merge-Quick-and-Radix-Sort-using-CUDA
+# Parallel-Quick Sort-using-CUDA
